@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cmake,py,matlab,regex,md,git,bash,github,linux,ros,docker,vim,vscode,ps,pr,ae,ai,unreal,instagram,twitter,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=ae,aiscript,anaconda,apple,au,aws,bash,blender,c,cpp,clion,cloudfare,discord,docker,git,gmail,ai,instagram,latex,linux,md,notion,ps,pkl,powershell,pr,pycharm,py,raspberrypi,regex,ros,stackoverflow,svg,ubuntu,vim,vscode,windows" />
   </a>
 </p>
 
